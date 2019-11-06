@@ -1,5 +1,17 @@
 # JOIN 2019 Hands-on Lab Presentations:
 
+* [5 Steps to Embedding Looker](https://github.com/llooker/join2019_labs/blob/master/HOL04%20-%205%20Steps%20to%20Embedding%20Looker.pptx.pdf)
+* [Amplify, Looker, and the Central Source of Truth](https://github.com/llooker/join2019_labs/blob/master/HOL13%20-%20Amplify%2C%20Looker%2C%20and%20the%20Central%20Source%20of%20Truth.pptx.pdf)
+* [Building Better Dashboards](https://github.com/llooker/join2019_labs/blob/master/HOL03%20-%20Building%20Better%20Dashboards.pptx.pdf)
 * [Data Science in Action with Looker & R](https://github.com/llooker/join2019_labs/blob/master/HOL01%20-%20Data%20Science%20in%20Action%20with%20Looker%20%26%20R.pptx.pdf)
+* [Dive into the Details: Powerful Data Drills](https://github.com/llooker/join2019_labs/blob/master/HOL08%20-%20Dive%20into%20the%20Details%20-%20Powerful%20Data%20Drills.pptx.pdf)
+* [Extends: The End of Endless Rewriting](https://github.com/llooker/join2019_labs/blob/master/HOL11%20-%20Extends%20-%20The%20End%20of%20Endless%20Rewriting.pptx.pdf)
+* [Level Up: Advanced Table Calculations](https://github.com/llooker/join2019_labs/blob/master/HOL07%20-%20Level%20Up%20-%20Advanced%20Table%20Calculations.pptx.pdf)
+* [Liquid: An Introduction to Customizing Looker](https://github.com/llooker/join2019_labs/blob/master/HOL05%20-%20Liquid%20-%20An%20Introduction%20to%20Customizing%20Looker.pptx.pdf)
+* [Looker + Liquid: Advanced Customization Techniques](https://github.com/llooker/join2019_labs/blob/master/HOL10_%20Looker%20%2B%20Liquid%20-%20Advanced%20Customization%20Techniques.pptx.pdf)
 * [Multilingual Embedded Dashboards](https://github.com/llooker/join2019_labs/blob/master/HOL02%20-%20Multilingual%20Embedded%20Dashboards.pptx.pdf)
-
+* [Operationalize Data with Zapier](https://github.com/llooker/join2019_labs/blob/master/HOL09%20-%20Operationalize%20Data%20with%20Zapier.pptx.pdf)
+* [Predictive Analytics with Looker and Amazon SageMaker Powered by AWS](https://github.com/llooker/join2019_labs/blob/master/HOL12%20-%20Predictive%20Analytics%20with%20Looker%20and%20Amazon%20SageMaker%20Powered%20by%20AWS.pptx.pdf)
+* [Putting the Fun in Functions: An Introduction to Table Calculations](https://github.com/llooker/join2019_labs/blob/master/HOL06%20-%20Putting%20the%20FUN%20in%20Functions_%20Table%20Calculations.pptx.pdf)
+* [Slack Your Freshest Data](https://github.com/llooker/join2019_labs/blob/master/HOL15%20-%20Slack%20Your%20Freshest%20Data.pptx.pdf)
+* [Understanding SQL Basics](https://github.com/llooker/join2019_labs/blob/master/HOL14%20-%20Understanding%20SQL%20Basics.pptx.pdf)
